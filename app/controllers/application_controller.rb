@@ -5,4 +5,7 @@ class ApplicationController < ActionController::Base
 
 def testing_ruby
 end
+
+def testing_rails2
+end
 end
