@@ -4,6 +4,7 @@ class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
 
 def testing_ruby
+@task="Hello world!"
 end
 
 def testing_rails2
