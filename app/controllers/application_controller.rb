@@ -5,6 +5,7 @@ class ApplicationController < ActionController::Base
 
 def testing_ruby
 @task="Hello world!"
+@task="Hello Sagar"
 end
 
 def testing_rails2
